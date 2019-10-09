@@ -1,11 +1,11 @@
 # CoderSchool FTW - * GOOGLE NEWS *
 
-Created with love by: <Hang & >
+Created with love by: <Hang & Thi>
   
 
 ## Netlify link
 
-[Demo here]()
+[Demo here](https://hang-google-news-coderschool.netlify.com)
 
 
 ## User Stories
