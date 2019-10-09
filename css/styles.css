@@ -2,6 +2,7 @@
 	font-family: Lato;
 }
 
+
 #articles-list {
 	margin-top: 50px;
 	display: flex;
@@ -13,6 +14,7 @@
 	width: 20rem;
 	overflow: hidden;
 }
+
 
 .card img {
 	height: 200px;
@@ -33,3 +35,16 @@ footer {
 	color: #007bff;
 	font-weight: bold;
 }
+
+.total-text{
+	margin-left: 1090px;
+	color: #007bff;
+}
+
+#count {
+	background-color: #007bff;
+}
+
+section {
+	margin-top: 70px;
+} *
