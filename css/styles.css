@@ -1,0 +1,35 @@
+* {
+	font-family: Lato;
+}
+
+#articles-list {
+	margin-top: 50px;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.card {
+	width: 20rem;
+	overflow: hidden;
+}
+
+.card img {
+	height: 200px;
+}
+footer {
+	height: 100px;
+	background-color: #f8f9fa;
+	margin-top: 30px;
+}
+
+.card-body {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+}
+
+#logo {
+	color: #007bff;
+	font-weight: bold;
+}
